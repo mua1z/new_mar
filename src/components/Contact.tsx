@@ -7,7 +7,7 @@ const Contact: React.FC = () => {
   const { t } = useLanguage();
 
   return (
-    <section id="contact" className="py-24 bg-white relative">
+    < section id="contact" className="py-24 bg-white relative" >
       <div className="container mx-auto px-6">
 
         <div className="mb-16">
@@ -111,7 +111,7 @@ const Contact: React.FC = () => {
 
         </div>
       </div>
-    </section>
+    </section >
   );
 };
 

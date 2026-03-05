@@ -44,10 +44,10 @@ const Experience: React.FC = () => {
         <div className="flex flex-col lg:flex-row gap-12 max-w-6xl mx-auto">
           {/* Photo side */}
           <motion.div
-            initial={{ opacity: 0, x: -40 }}
-            whileInView={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, y: 20 }}
+            whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
-            className="lg:w-5/12 hidden md:block"
+            className="lg:w-5/12 w-full order-first lg:order-none mb-8 lg:mb-0"
           >
             <motion.div
               whileHover={{ y: -8, rotateY: -3 }}
