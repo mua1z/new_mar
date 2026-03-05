@@ -1,0 +1,47 @@
+.profile-section {
+    padding: 4rem 1rem;
+    background: #fff;
+    text-align: center;
+}
+
+.profile-section h2 {
+    color: #083a8a;
+    font-size: 2rem;
+}
+
+.profile-section .intro {
+    color: #334155;
+    max-width: 700px;
+    margin: 0.5rem auto 2rem;
+    font-size: 1rem;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.bio-card,
+.photo-card {
+    background: #f8fafc;
+    padding: 1.5rem;
+    border-radius: 8px;
+    flex: 1 1 300px;
+    max-width: 500px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.bio-card h3 {
+    color: #083a8a;
+    margin-bottom: 1rem;
+}
+
+.photo-card img {
+    width: 100%;
+    border-radius: 50%;
+    max-width: 300px;
+    display: block;
+    margin: 0 auto;
+}

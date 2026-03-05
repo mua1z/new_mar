@@ -1,0 +1,28 @@
+.footer {
+  background: #083a8a;
+  color: #fff;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+.footer .container {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+.footer .info h3 {
+  margin: 0;
+}
+.footer .social a {
+  margin: 0 0.5rem;
+  color: #fff;
+  font-size: 1.25rem;
+  text-decoration: none;
+}
+.footer .copyright {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+}

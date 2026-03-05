@@ -1,0 +1,48 @@
+.contact-section {
+  padding: 4rem 1rem;
+  background: #fff;
+  text-align: center;
+}
+.contact-section h2 {
+  color: #083a8a;
+  font-size: 2rem;
+}
+.contact-section .intro {
+  color: #334155;
+  max-width: 700px;
+  margin: 0.5rem auto 2rem;
+  font-size: 1rem;
+}
+.contact-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+}
+.form-card, .details-card {
+  background: #f8fafc;
+  padding: 1.5rem;
+  border-radius: 8px;
+  max-width: 400px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  text-align: left;
+}
+.form-card h3, .details-card h3 {
+  color: #083a8a;
+  margin-bottom: 1rem;
+}
+.form-card form label {
+  display: block;
+  margin-bottom: 0.75rem;
+  font-size: 0.9rem;
+}
+.form-card input, .form-card textarea {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-top: 0.25rem;
+}
+.form-card textarea {
+  min-height: 100px;
+}

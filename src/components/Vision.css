@@ -1,0 +1,51 @@
+.vision-section {
+    padding: 4rem 1rem;
+    background: #f7faff;
+    text-align: center;
+}
+
+.vision-section h2 {
+    color: #083a8a;
+    font-size: 2rem;
+}
+
+.vision-section .intro {
+    color: #334155;
+    max-width: 700px;
+    margin: 0.5rem auto 2rem;
+    font-size: 1rem;
+}
+
+.vision-content {
+    display: flex;
+    justify-content: center;
+}
+
+.vision-card {
+    background: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+    max-width: 800px;
+    text-align: left;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.vision-card h3 {
+    color: #083a8a;
+}
+
+.vision-card .row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 1rem;
+}
+
+.vision-card .column {
+    flex: 1 1 200px;
+}
+
+.vision-card ul,
+.vision-card ol {
+    margin: 0.5rem 0 0 1rem;
+}

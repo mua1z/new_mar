@@ -1,0 +1,67 @@
+.experience-section {
+    padding: 4rem 1rem;
+    background: #f7faff;
+    text-align: center;
+}
+
+.experience-section h2 {
+    color: #083a8a;
+    font-size: 2rem;
+}
+
+.experience-section .intro {
+    color: #334155;
+    max-width: 700px;
+    margin: 0.5rem auto 2rem;
+    font-size: 1rem;
+}
+
+.timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+}
+
+.entry {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    max-width: 900px;
+    align-items: center;
+}
+
+.entry .image img {
+    width: 300px;
+    border-radius: 8px;
+}
+
+.entry .details {
+    flex: 1;
+    text-align: left;
+}
+
+.entry .details h3 {
+    color: #083a8a;
+    margin-bottom: 0.5rem;
+}
+
+.entry .details .date {
+    font-size: 0.9rem;
+    color: #6b7280;
+    margin-left: 0.5rem;
+}
+
+.entry .details .tags {
+    margin-top: 0.75rem;
+}
+
+.entry .details .tags span {
+    display: inline-block;
+    background: #e8f0ff;
+    color: #083a8a;
+    padding: 0.25rem 0.5rem;
+    border-radius: 12px;
+    margin-right: 0.5rem;
+    font-size: 0.85rem;
+}

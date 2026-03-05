@@ -1,0 +1,44 @@
+.initiatives-section {
+  padding: 4rem 1rem;
+  background: #f7faff;
+  text-align: center;
+}
+.initiatives-section h2 {
+  color: #083a8a;
+  font-size: 2rem;
+}
+.initiatives-section .intro {
+  color: #334155;
+  max-width: 700px;
+  margin: 0.5rem auto 2rem;
+  font-size: 1rem;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+}
+.initiative-card {
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+  width: 280px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.initiative-card .icon {
+  font-size: 2rem;
+}
+.initiative-card h3 {
+  margin: 0;
+  color: #083a8a;
+}
+.initiative-card .impact {
+  margin-top: auto;
+  font-size: 0.9rem;
+  color: #28a745;
+}

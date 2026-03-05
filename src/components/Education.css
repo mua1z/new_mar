@@ -1,0 +1,67 @@
+.education-section {
+    padding: 4rem 1rem;
+    background: #fff;
+    text-align: center;
+}
+
+.education-section h2 {
+    color: #083a8a;
+    font-size: 2rem;
+}
+
+.education-section .intro {
+    color: #334155;
+    max-width: 700px;
+    margin: 0.5rem auto 2rem;
+    font-size: 1rem;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.education-card {
+    background: #f8fafc;
+    padding: 1.5rem;
+    border-radius: 8px;
+    max-width: 450px;
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.education-card .icon {
+    background: #e8f0ff;
+    color: #083a8a;
+    font-weight: 700;
+    font-size: 1.5rem;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.education-card .info h3 {
+    color: #083a8a;
+    margin: 0;
+}
+
+.education-card .tags {
+    margin-top: 0.75rem;
+}
+
+.education-card .tags span {
+    display: inline-block;
+    background: #e8f0ff;
+    color: #083a8a;
+    padding: 0.25rem 0.5rem;
+    border-radius: 12px;
+    margin-right: 0.5rem;
+    font-size: 0.85rem;
+}
