@@ -57,7 +57,7 @@ const Experience: React.FC = () => {
               <div className="relative h-72 overflow-hidden">
                 <img
                   src="/hero-bg.jpg"
-                  alt="Merawan at office"
+                  alt="Marewan at office"
                   className="w-full h-full object-cover object-top"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-[#1e3a8a]/60 to-transparent" />

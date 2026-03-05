@@ -59,7 +59,7 @@ const Hero: React.FC = () => {
       >
         <img
           src="/hero-bg.jpg"
-          alt="Merawan Mohammed in office"
+          alt="Marewan Mohamed in office"
           className="w-full h-full object-cover object-center scale-110"
         />
         {/* Multi-layer dark overlay for readability */}

@@ -11,15 +11,15 @@ export const translations = {
             contact: "Contact",
         },
         hero: {
-            name: "Merawan Mohammed",
-            title: "Woreda Administration Officer",
+            name: "Marewan Mohamed",
+            title: "Public Administrator",
             tagline: "Serving Communities Through Responsible Leadership and Effective Governance",
             cta1: "Contact Office",
             cta2: "View Initiatives",
         },
         profile: {
             title: "Leadership Profile",
-            bio1: "Merawan Mohammed is a dedicated public servant committed to bringing transparency and modern governance to the local administration level in Ethiopia.",
+            bio1: "Marewan Mohamed is a dedicated public servant committed to bringing transparency and modern governance to the local administration level in Ethiopia.",
             bio2: "With a focus on community-centered service delivery, he bridges the gap between official policy and local needs.",
         },
         education: {
@@ -74,7 +74,7 @@ export const translations = {
             contact: "Quunnamtii",
         },
         hero: {
-            name: "Merawan Mohammed",
+            name: "Marewan Mohamed",
             title: "Abbaa Taayitaa Bulchiinsa Aanaa",
             tagline: "Hogganumsa Itti Gaafatama Qabuun fi Bulchiinsa Bu'a-qabeessaan Hawaasa Tajaajiluu",
             cta1: "Waajjira Quunnamaa",
@@ -82,7 +82,7 @@ export const translations = {
         },
         profile: {
             title: "Seenaa Hogganumsa",
-            bio1: "Merawan Mohammed tajaajilaa uummataa kan iftoominaafi bulchiinsa ammayyaa sadarkaa bulchiinsa naannoo Itoophiyaatti fiduuf kutannoo qabudha.",
+            bio1: "Marewan Mohamed tajaajilaa uummataa kan iftoominaafi bulchiinsa ammayyaa sadarkaa bulchiinsa naannoo Itoophiyaatti fiduuf kutannoo qabudha.",
             bio2: "Tajaajila hawaasarratti xiyyeeffachuun, imaammata mootummaa fi fedhii naannoo gidduutti riqicha uuma.",
         },
         education: {
@@ -137,7 +137,7 @@ export const translations = {
             contact: "ግንኙነት",
         },
         hero: {
-            name: "መራዋን መሀመድ",
+            name: "ማሬዋን መሀመድ",
             title: "የወረዳ አስተዳዳሪ",
             tagline: "በኃላፊነት ስሜት እና ውጤታማ አመራር ማህበረሰቡን ማገልገል",
             cta1: "ቢሮውን ያግኙ",
@@ -145,7 +145,7 @@ export const translations = {
         },
         profile: {
             title: "የአመራር መገለጫ",
-            bio1: "መራዋን መሀመድ በኢትዮጵያ በአካባቢ አስተዳደር ደረጃ ግልጽነትን እና ዘመናዊ አስተዳደርን ለማምጣት ቁርጠኛ የሆነ የመንግስት ሰራተኛ ነው።",
+            bio1: "ማሬዋን መሀመድ በኢትዮጵያ በአካባቢ አስተዳደር ደረጃ ግልጽነትን እና ዘመናዊ አስተዳደርን ለማምጣት ቁርጠኛ የሆነ የመንግስት ሰራተኛ ነው።",
             bio2: "በማህበረሰብ ተኮር አገልግሎት አሰጣጥ ላይ ትኩረት በማድረግ በመንግስት ፖሊሲ እና በአካባቢ ፍላጎቶች መካከል ያለውን ልዩነት ያጠበባል።",
         },
         education: {

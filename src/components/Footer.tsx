@@ -14,10 +14,10 @@ const Footer: React.FC = () => {
 
           <div className="lg:col-span-2 space-y-4">
             <div className="flex items-center gap-3 mb-6">
-              <span className="font-black text-2xl tracking-tight">Merawan Mohammed</span>
+              <span className="font-black text-2xl tracking-tight">{t.hero.name}</span>
             </div>
             <p className="text-blue-200 text-sm leading-relaxed max-w-md">
-              Official Leadership Portfolio for Merawan Mohammed, serving as a dedicated Woreda Administration Officer in Ethiopia.
+              Official Leadership Portfolio for {t.hero.name}, serving as a dedicated {t.hero.title} in Ethiopia.
             </p>
             <div className="flex gap-4 pt-4">
               <a href="#" className="w-10 h-10 rounded-full bg-blue-800 flex items-center justify-center hover:bg-gov-primary transition-colors text-white">

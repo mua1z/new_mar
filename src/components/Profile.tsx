@@ -99,7 +99,7 @@ const Profile: React.FC = () => {
             <div className="relative z-10 w-44 h-44 rounded-full border-4 border-white shadow-2xl overflow-hidden mb-8">
               <img
                 src="/hero-bg.jpg"
-                alt="Merawan Mohammed"
+                alt="Marewan Mohamed"
                 className="w-full h-full object-cover object-center scale-150 -translate-y-4"
               />
             </div>

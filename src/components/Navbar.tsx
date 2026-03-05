@@ -40,7 +40,7 @@ const Navbar: React.FC = () => {
           animate={{ opacity: 1, x: 0 }}
           className="text-lg font-bold text-[#1e3a8a] flex items-center gap-2"
         >
-          <Link to="/" className="tracking-tight hover:text-[#2563eb] transition-colors">Merawan Mohammed</Link>
+          <Link to="/" className="tracking-tight hover:text-[#2563eb] transition-colors">{t.hero.name}</Link>
         </motion.div>
 
         {/* Desktop Links */}
