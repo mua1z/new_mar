@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Menu, X, ChevronDown } from 'lucide-react';
+import { Globe, Menu, X, ChevronDown } from 'lucide-react';
 import { useLanguage } from '../hooks/useLanguage';
 import type { Language } from '../i18n/translations';
 import { Link, useLocation } from 'react-router-dom';
